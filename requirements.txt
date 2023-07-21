@@ -1,0 +1,6 @@
+Flask
+Flask-WTF
+Flask-Bootstrap
+email_validator
+zammad_py
+python-dotenv
