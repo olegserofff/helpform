@@ -5,10 +5,10 @@ https://github.com/joeirimpan/zammad_py
 https://github.com/wtforms/flask-wtf/
 
 # Environment variable file (.env)
-ZAMMAD_URL=http://localhost/api/v1
+ZAMMAD_URL=http://zammad.url
 
-ZAMMAD_USER=ss@jdoe.cc
+ZAMMAD_USER=user@example.com
 
-ZAMMAD_PASSWORD=1q2w3e!Q@W#E
+ZAMMAD_PASSWORD=secret
 
-APP_KEY=tO$&!|0wkamvVia0?n$NqIRVWOG
+APP_KEY=random_string
